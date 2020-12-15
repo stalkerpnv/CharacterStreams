@@ -1,4 +1,7 @@
 package Lab6;
 
-public class Boat {
+public class Boat implements IntForBoat{
+    public void swim(){
+
+    }
 }

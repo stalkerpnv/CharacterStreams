@@ -1,4 +1,5 @@
 package Lab6;
 
-public class Plane {
+public interface Plane {
+    public void fly();
 }
